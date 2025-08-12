@@ -1,0 +1,16 @@
+/* Menu.css */
+
+.section-title {
+  text-align: center;
+  font-size: 2.5rem;
+  margin: 40px 0 20px;
+  color: #b44c74;
+  font-weight: bold;
+}
+
+.recipe-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 30px;
+  padding: 0 40px 60px;
+}

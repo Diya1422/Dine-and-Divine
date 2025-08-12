@@ -1,0 +1,28 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 50px;
+  background: white;
+  border-bottom: 1px solid #ddd;
+}
+.logo {
+  font-size: 26px;
+  font-family: 'Georgia', serif;
+  color: #6c446c;
+  font-weight: bold;
+}
+.nav-links {
+  display: flex;
+  list-style: none;
+  gap: 25px;
+}
+.nav-links a {
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+}
+.search-icon {
+  font-size: 20px;
+  cursor: pointer;
+}
