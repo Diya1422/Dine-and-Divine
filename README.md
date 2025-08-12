@@ -24,8 +24,8 @@ Contact form to reach out
 
 📫 Contact Me
 Feel free to reach out on:
-GitHub: Diya1422
-LinkedIn: [https://www.linkedin.com/in/diya-sharma-0087ab241/]
+GitHub: https://github.com/Diya1422
+LinkedIn: https://www.linkedin.com/in/diya-sharma-0087ab241/
 Twitter: https://x.com/DiyaKatihar
 
 >>>>>>> 5d0bbc597d783b8d5e8be2fc93badd45baaccb73
