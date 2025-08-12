@@ -1,0 +1,31 @@
+.recipes-section {
+  display: flex;
+  justify-content: space-around;
+  padding: 30px;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.recipe-container {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  .recipe-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .recipe-card {
+    width: 90%;
+    margin-bottom: 20px;
+  }
+
+  .subscribe-section {
+    padding: 20px;
+    text-align: center;
+  }
+}
